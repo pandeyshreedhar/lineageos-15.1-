@@ -1,4 +1,4 @@
-# lineageos-15.1-
+# lineageos-15.1
 support oreo version 
 
 # Device tree for Samsung Galaxy S III
